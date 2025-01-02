@@ -17,3 +17,8 @@ The **To-Do List Application** is a simple and intuitive web app designed to hel
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Santhosh-Sks/To-Do-List.git
+
+## ScreenShot 
+
+![Screenshot 2025-01-02 082210](https://github.com/user-attachments/assets/0ae31485-06ae-4454-9525-a44a4c9db4eb)
+![Screenshot 2025-01-02 082240](https://github.com/user-attachments/assets/fed4cc85-79f5-485d-b111-93310e6c6ffe)
